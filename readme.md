@@ -1,4 +1,4 @@
-# Chart Showing Aryna Sabalenka's Aces to Double Fault Ratio
+# Chart showing Sabalenka's Aces-DF ratio over time
 
 This chart, made using **ggplot**, illustrates how tennis player and current first seed Aryna Sabalenka used biomechanics to improve her service and significantly increase her ace-to-double fault ratio.
 
